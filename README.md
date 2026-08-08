@@ -85,7 +85,7 @@ Add screenshots of:
 
 ## Author
 
-**Varsha**  
+**Pratham Kamal**  
 B.Tech Student, National Institute of Technology Kurukshetra
 
 ## License
